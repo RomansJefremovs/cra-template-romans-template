@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-romans-template",
+  "version": "1.3.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romans Jefremovs",
+  "license": "MIT"
+}
